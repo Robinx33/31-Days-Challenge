@@ -2,9 +2,6 @@
 title: 18 December 2022
 updated: 2022-12-19 05:16:40Z
 created: 2022-12-18 06:31:43Z
-latitude: 51.49640000
-longitude: -0.12240000
-altitude: 0.0000
 ---
 
 `18 December 2022`
