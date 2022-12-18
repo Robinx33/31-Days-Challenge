@@ -1,7 +1,5 @@
 ---
 title: 18 December 2022
-updated: 2022-12-19 05:16:40Z
-created: 2022-12-18 06:31:43Z
 ---
 
 `18 December 2022`
