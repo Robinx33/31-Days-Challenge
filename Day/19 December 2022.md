@@ -60,4 +60,6 @@ This tool will also provide a string that will make the vulnerable RegEx go into
 - (a(bc))	Capture Sub-group
 - (.*)	Capture all
 - (abc|def)	Matches abc or def
+* * *
 
+## **The End**
