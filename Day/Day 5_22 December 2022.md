@@ -18,5 +18,6 @@
 - Server-side template injection is when an attacker is able to use native template syntax to inject a malicious payload into a template, which is then executed server-side.
 - [Server-Side Template Injections Explained](https://www.youtube.com/watch?v=SN6EVIG4c-0).
 - [Server-Side Template Injection Explained PortSwigger](https://portswigger.net/web-security/server-side-template-injection).
+- [Server-Side Template Injection Payloads ](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Side%20Template%20Injection).
 ## **Labs**:
 - [Portswigger Labs](https://portswigger.net/web-security/server-side-template-injection/exploiting).
