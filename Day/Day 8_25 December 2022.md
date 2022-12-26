@@ -1,6 +1,6 @@
 `25 December 2022`
 
-## **Day 7 What I have Learned**:
+## **Day 8 What I have Learned**:
 
 * * *
 
