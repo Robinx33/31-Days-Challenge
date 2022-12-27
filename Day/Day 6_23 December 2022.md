@@ -1,4 +1,6 @@
 `23 December 2022`
+## **Day 6 What I have Learned**
+***
 ## **Cross-Site Leaks (XS-Leaks)**:
 - Cross-site leak (XS-Leak) refers to a family of browser side-channel techniques that can be used to infer and gather information about users, often based upon network timing of the responses.
 - Cross-Site Leaks/XS-Leaks is a less explored security issue that usually comes from Side-Channel Attacks.
