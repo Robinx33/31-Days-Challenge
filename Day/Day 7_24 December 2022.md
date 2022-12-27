@@ -1,4 +1,6 @@
 `24 December 2022`
+## **Day 7 What I have Learned**
+***
 ## **Cross-Site Script Inclusion**:
 - Cross Site Script Inclusion (XSSI) vulnerability allows sensitive data leakage across-origin or cross-domain boundaries. Sensitive data could include authentication-related data (login states, cookies, auth tokens, session IDs, etc.) or user’s personal or sensitive personal data (email addresses, phone numbers, credit card details, social security numbers, etc.)
 - [More](https://owasp.org/www-project-web-security-testing-guide/stable/4-Web_Application_Security_Testing/11-Client-side_Testing/13-Testing_for_Cross_Site_Script_Inclusion).
