@@ -52,6 +52,7 @@
 ## **Labs**:
 
 - [Web Cache Poisoning](https://portswigger.net/web-security/web-cache-poisoning).
+- [Web Cache Entanglement](https://portswigger.net/research/web-cache-entanglement).
 
 ## **Reports**:
 
