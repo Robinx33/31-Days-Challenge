@@ -12,3 +12,4 @@
 | Day 9 | [JSON Attacks](https://github.com/Robinx33/365-Days-Challenge/blob/main/Day/Day%209_26%20December%202022.md) |
 | Day 10 | [Hop-By-Hop Attacks & CPDoS Attacks](https://github.com/Robinx33/365-Days-Challenge/blob/main/Day/Day%2010_27%20December%202022.md) |
 | Day 11 | [Web Cache Poisoning](https://github.com/Robinx33/365-Days-Challenge/blob/main/Day/Day%2011_28%20December%202022.md) |
+| Day 12 | [Websocket Vulns Part 1](https://github.com/Robinx33/365-Days-Challenge/blob/main/Day/Day%2012_29%20December%202022.md) |
