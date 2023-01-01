@@ -15,3 +15,4 @@
 | Day 12 | [Websocket Vulns Part 1](https://github.com/Robinx33/365-Days-Challenge/blob/main/Day/Day%2012_29%20December%202022.md) |
 | Day 13 | [Websocket Vulns Part 2](https://github.com/Robinx33/365-Days-Challenge/blob/main/Day/Day%2013_30%20December%202022.md) |
 | Day 14 | [Web Cache Deception Attack](https://github.com/Robinx33/365-Days-Challenge/blob/main/Day/Day%2014_31%20December%202022.md) |
+| Day 15 | [Session Puzzling Attack](https://github.com/Robinx33/365-Days-Challenge/blob/main/Day/Day%2015_1%20January%202023.md) |
