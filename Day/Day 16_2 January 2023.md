@@ -1,5 +1,5 @@
 `2 January 2023`
-## **Day 16 What IHave Learned**
+## **Day 16 What I Have Learned**
 ***
 ## **Mass Assignment Attack**:
 - Mass assignment vulnerabilites occur when a user is able to initialize or overwrite server-side variables for which are not intended by the application
