@@ -18,4 +18,4 @@
 | Day 15 | [Session Puzzling Attack](https://github.com/Robinx33/365-Days-Challenge/blob/main/Day/Day%2015_1%20January%202023.md) |
 | Day 16 | [Mass Assignment Attack](https://github.com/Robinx33/365-Days-Challenge/blob/main/Day/Day%2016_2%20January%202023.md) |
 | Day 17 | [HTTP Parameter Pollution](https://github.com/Robinx33/365-Days-Challenge/blob/main/Day/Day%2017_3%20January%202023.md) |
-| Day 18 | [GraphQL Part 1](https://github.com/Robinx33/365-Days-Challenge/blob/main/Day/Day18_4%20January%202023.md) |
+| Day 18 | [GraphQL](https://github.com/Robinx33/365-Days-Challenge/blob/main/Day/Day18_4%20January%202023.md) |
