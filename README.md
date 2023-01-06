@@ -20,3 +20,4 @@
 | Day 17 | [HTTP Parameter Pollution](https://github.com/Robinx33/365-Days-Challenge/blob/main/Day/Day%2017_3%20January%202023.md) |
 | Day 18 | [GraphQL](https://github.com/Robinx33/365-Days-Challenge/blob/main/Day/Day18_4%20January%202023.md) |
 | Day 19 | [Password Reset Token Issues](https://github.com/Robinx33/365-Days-Challenge/blob/main/Day/Day%2019_5%20January%202023.md) |
+| Day 20 | [Account Takeover](https://github.com/Robinx33/365-Days-Challenge/blob/main/Day/Day%2020_6%20January%202023.md) |
