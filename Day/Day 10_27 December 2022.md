@@ -21,12 +21,12 @@
 
 ## **Hop-By-Hop Section**:
 ## **Attacks by Abusing Hop-by-Hop Header**:
-1. Fingerprinting Services
-2. Accessing Authenticated Endpoint or Protected Information 
-3. Masking the Source IP 
-4. Cache Poisoned Denial of Service (CPDoS)
-5. SSRF
-6. WAF Bypass
+1. Fingerprinting Services.
+2. Accessing Authenticated Endpoint or Protected Information.
+3. Masking the Source IP. 
+4. Cache Poisoned Denial of Service (CPDoS).
+5. SSRF.
+6. WAF Bypass.
 ## **Resources**:
 
 1.  [Abusing Http hop by hop](https://nathandavison.com/blog/abusing-http-hop-by-hop-request-headers).
@@ -43,7 +43,7 @@
 1. HTTP Header Oversize.
 - HHO CPDoS attacks work in scenarios where a web application uses a cache that accepts a larger header size limit than the origin server
 2. HTTP Meta Character.
-- Meta characters can be, e.g., control characters such as line break/carriage return (\n), line feed (\r) or bell (\a)
+- Meta characters can be ,e.g., control characters such as line break/carriage return (\n), line feed (\r) or bell (\a)
 3. HTTP Method Override.
 - The X-HTTP-Method-Override HTTP header works somewhat similar to a hack. You can add the header with a value of either PUT or DELETE.
 ***
