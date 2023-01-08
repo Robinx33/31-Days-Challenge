@@ -22,3 +22,4 @@
 | Day 19 | [Password Reset Token Issues](https://github.com/Robinx33/365-Days-Challenge/blob/main/Day/Day%2019_5%20January%202023.md) |
 | Day 20 | [Account Takeover Techniques](https://github.com/Robinx33/365-Days-Challenge/blob/main/Day/Day%2020_6%20January%202023.md) |
 | Day 21 | [Race Condition](https://github.com/Robinx33/365-Days-Challenge/blob/main/Day/Day%2021_7%20January%202023.md) |
+| Day 22 | [Bussiness Logic Issues](https://github.com/Robinx33/365-Days-Challenge/blob/main/Day/Day%2022_8%20January%202023.md) |
