@@ -28,3 +28,4 @@
 | Day 25 | [Rsync Service](https://github.com/Robinx33/365-Days-Challenge/blob/main/Day/Day%2025_11%20January%202023.md) |
 | Day 26 | [CRLF Injection](https://github.com/Robinx33/365-Days-Challenge/blob/main/Day/Day%2026_12%20January%202023.md) |
 | Day 27 | [OpenID Connect Issues](https://github.com/Robinx33/365-Days-Challenge/blob/main/Day/Day%2027_13%20January%202023.md) |
+| Day 28 | [Cookie Based Authentication Vulnerabilities](https://github.com/Robinx33/365-Days-Challenge/blob/main/Day/Day%2028_14%20January%202023.md) |
