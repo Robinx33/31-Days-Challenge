@@ -31,3 +31,4 @@
 | Day 28 | [Cookie Based Authentication Vulnerabilities](https://github.com/Robinx33/365-Days-Challenge/blob/main/Day/Day%2028_14%20January%202023.md) |
 | Day 29 | [Cobalt Vulnerability Wiki](https://github.com/Robinx33/365-Days-Challenge/blob/main/Day/Day%2029_15%20January%202023.md) |
 | Day 30 | [CORS Misconfiguration](https://github.com/Robinx33/365-Days-Challenge/blob/main/Day/Day%2030_16%20January%202023.md) |
+| Day 31 | [DNS Rebinding](https://github.com/Robinx33/365-Days-Challenge/blob/main/Day/Day%2031_17%20January%202023.md) |
